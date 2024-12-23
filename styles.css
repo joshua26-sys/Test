@@ -1,0 +1,67 @@
+h1{
+    text-align: center;
+   margin-top: 10px;
+   margin-bottom: 50px;
+   font-size: 40px;
+  
+   
+  }
+  /*box1*/
+
+  
+  * {
+    box-sizing: border-box;
+  }
+  section {
+    position: relative;
+    padding: 20px;
+  }
+  h3 {
+    margin: 5px;
+     text-align: center;
+     font-size: 2.5rem;
+    color: rgb(84, 82, 82);
+  }
+  p{
+    position: relative;
+    clear: right;
+    padding: 5px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  /*box2*/
+  
+  * {
+    box-sizing: border-box;
+  }
+  section {
+    position: relative;
+    padding: 20px;
+    background-color: aquamarine;
+  }
+  
+  .content{
+    position: relative;
+    clear: right;
+    padding: 5px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;}
+
+
+    /*box3*/
+    
+      * {
+        box-sizing: border-box;
+      }
+      /* section {
+        position: relative;
+        padding: 20px;
+      } */
+     .navbar-brand {
+        font-size: 25px;
+        font-family:  sans-serif;
+    }
+    
+    
+
+  
